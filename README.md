@@ -64,3 +64,5 @@ namespace 扫描IP
 &emsp;&emsp;以上代码在Microsoft Visual Studio 2015中编译通过，项目源码：[https://github.com/yi-ge/scanIP](https://github.com/yi-ge/scanIP)
 
 2017年05月03日17:59:47提示：nmap也可以解决这个问题。
+
+相关博文： [https://www.wyr.me/post/283](https://www.wyr.me/post/283)
