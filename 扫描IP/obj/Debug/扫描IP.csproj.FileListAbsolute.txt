@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2015\Projects\扫描IP\扫描IP\bin\Debug\扫描IP.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\扫描IP\扫描IP\bin\Debug\扫描IP.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\扫描IP\扫描IP\bin\Debug\扫描IP.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\扫描IP\扫描IP\obj\Debug\扫描IP.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\扫描IP\扫描IP\obj\Debug\扫描IP.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\扫描IP\扫描IP\obj\Debug\扫描IP.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\扫描IP\扫描IP\obj\Debug\扫描IP.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\扫描IP\扫描IP\obj\Debug\扫描IP.pdb
