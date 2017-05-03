@@ -4,7 +4,7 @@
 
 &emsp;&emsp;这是个非常实用的小程序，可以用于多媒体教室查询在线机子数量、公司内网在线用户管理。当然，查询机房在线IP也可以实现。（谨慎使用，技术有利有弊！）
 
-&emsp;&emsp;程序很简单，界面上一个Button+一个listBox。源码：
+&emsp;&emsp;程序很简单，界面上一个Button+一个listBox。源码：
 
 ```
 using System;
